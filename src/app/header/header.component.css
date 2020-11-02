@@ -1,0 +1,43 @@
+.spacer
+{
+    flex: 1 1 auto;
+}
+.home a
+{
+    color:darkslateblue;
+    text-decoration:underline;
+}
+.home a:hover
+{
+    color: gold;
+}
+.register a
+{
+    padding:20px;
+    color:white;
+    text-decoration: none;
+}
+.register a:hover
+{
+    color:gold;
+}
+.login a
+{
+    padding:10px;
+    color:white;
+    text-decoration: none;
+}
+.login a:hover
+{
+    color:gold;
+}
+.reg a
+{
+    color:black;
+    text-decoration: none;
+}
+.mat-toolbar.mat-primary
+{
+    background: blueviolet;
+    color: blueviolet;
+}
